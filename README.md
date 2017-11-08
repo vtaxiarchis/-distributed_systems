@@ -1,29 +1,7 @@
 # README #
 
-This is a readme for the first lab of distributed systems
+Labs for "TDA596 - Distributed Systems" course
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+We implemented a distributed blackboard application, using a subset of the Python programming language. Starting from a simple (barely working) implementation, it will evolve over the labs to a fully working distributed application with different properties. We tested our implementation on the Seattle platform, a platform for networking and distributed systems teaching & research. In the context of these labs, Seattle allows us to run and evaluate our implementation on different machines distributed around the world.
