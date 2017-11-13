@@ -8,7 +8,8 @@ We implemented a distributed blackboard application, using a subset of the Pytho
 
 ### Seattle platform ###
 
-Seattle is a platform for networking and distributed systems research. It's free, community-driven, and offers a large deployment of computers spread across the world. Seattle operates on resources donated by users and institutions. The global distribution of the Seattle network provides the ability to use it in application contexts that include cloud computing, peer-to-peer networking, ubiquitous/mobile computing, and distributed systems. Seattle nodes run code written in a special language called Repy. Repy is a subset of the Python language (v2.5, v2.6) invented specifically for Seattle. ([site](https://seattleclearinghouse.poly.edu))
+Seattle is a platform for networking and distributed systems research. It's free, community-driven, and offers a large deployment of computers spread across the world. Seattle operates on resources donated by users and institutions. The global distribution of the Seattle network provides the ability to use it in application contexts that include cloud computing, peer-to-peer networking, ubiquitous/mobile computing, and distributed systems. Seattle nodes run code written in a special language called Repy. Repy is a subset of the Python language (v2.5, v2.6) invented specifically for Seattle.
+(visit website [here](https://seattleclearinghouse.poly.edu))
 
 ### Running programs in Seattle ###
 
