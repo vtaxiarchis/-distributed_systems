@@ -31,40 +31,40 @@ python seash.py
 
 Step 2: Log in with our key by loading the public and private key downloaded from Seattle Clearinghouse
 ```
-!> loadkeys vtaxiarchis !> as vtaxiarchis vtaxiarchis@ !>
+!> loadkeys username !> as username username@ !>
 ```
 
 Step 3. Locate the resources (computers) that we have created in the Seattle Clearinghouse
 ```
-vtaxiarchis@ !> browse
+username@ !> browse
 ```
 
 Step 4. Access the resources (VMs) in the Seattle Clearinghouse
 ```
-vtaxiarchis@ !> on browsegood
+username@ !> on browsegood
 ```
 
 Step 5. Upload a Repy program in the Seattle Clearinghouse
 ```
-vtaxiarchis@ !> upload example.repy
+username@ !> upload example.repy
 ```
 
 Step 6. Run a program (“Hello world”)
 ```
-vtaxiarchis@browsegood !> run example.repy
+username@browsegood !> run example.repy
 ```
 
 Step 7. Look up the result of the program executed
 ```
-vtaxiarchis@browsegood !> show log
+username@browsegood !> show log
 ```
 
 Step 8. Look up the information about the VMs we control
 ```
-vtaxiarchis@browsegood !> list
+username@browsegood !> list
 ```
 
 Step 9. Exit from Seash
 ```
-vtaxiarchis@browsegood !> exit
+username@browsegood !> exit
 ```
